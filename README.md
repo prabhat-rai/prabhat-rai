@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabhat-rai
-- 👀 I’m interested in Laravel, JS, PHP, jQuery, Python, MySQL, MongoDB and GoLang
-- 🌱 I’m currently learning GoLang
+- 👨‍💻 I’m interested in Laravel, JS, PHP, jQuery, Python, MySQL, MongoDB and GoLang
+- 🤓 Learning GoLang
 - 📫 Reach me @prabhat89cs on twitter
 
 <!---
